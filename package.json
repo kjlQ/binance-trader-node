@@ -1,0 +1,24 @@
+{
+  "name": "trading-bot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.2",
+    "nodemon": "^3.1.11"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/mongoose": "^5.11.96",
+    "@types/node": "^25.0.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
